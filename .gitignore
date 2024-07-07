@@ -1,0 +1,12 @@
+# Entorno virtual
+env/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración del sistema
+.DS_Store
